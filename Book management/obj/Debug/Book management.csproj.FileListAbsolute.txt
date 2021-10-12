@@ -1,0 +1,40 @@
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\bin\Debug\Book management.exe.config
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\bin\Debug\Book management.exe
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\bin\Debug\Book management.pdb
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book management.csprojResolveAssemblyReference.cache
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form1.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Properties.Resources.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book management.csproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book management.exe
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book management.pdb
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\bin\Debug\DbBook.mdf
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\bin\Debug\DbBook_log.ldf
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form_Add.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form_Cat.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form_DailogeAdd.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form_DailogeDelete.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form_MessageBox.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form_DailogeEdit.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form_Detailes.resources
+C:\Users\hassan\Desktop\c sharp jeux\Book management\Book management\obj\Debug\Book_management.Form_Start.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\bin\Debug\Book management.exe.config
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book management.exe
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book management.pdb
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\bin\Debug\DbBook.mdf
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\bin\Debug\DbBook_log.ldf
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\bin\Debug\Book management.exe
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\bin\Debug\Book management.pdb
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book management.csprojResolveAssemblyReference.cache
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form1.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form_Add.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form_Cat.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form_DailogeDelete.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form_Detailes.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form_MessageBox.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form_DailogeEdit.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form_DailogeAdd.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Form_Start.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book_management.Properties.Resources.resources
+C:\Users\hassan\Desktop\MyProjects\Book management\Book management\obj\Debug\Book management.csproj.GenerateResource.Cache
